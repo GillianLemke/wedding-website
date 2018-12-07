@@ -1,0 +1,2 @@
+Flask
+aws-wsgi==0.0.8
